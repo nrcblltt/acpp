@@ -36,7 +36,7 @@ int main()
     return 1;
   }
 
-  // sort the grades
+  // sort the integers
   sort(integers.begin(), integers.end());
 
   // compute the quartiles
